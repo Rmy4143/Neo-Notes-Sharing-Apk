@@ -1,0 +1,6 @@
+{
+  "name": "NEO NOTES",
+  "description": "Modern Academic Notes Sharing Platform for College Students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
